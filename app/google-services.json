@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462278412292",
+    "firebase_url": "https://sunad-task-c1b7f.firebaseio.com",
+    "project_id": "sunad-task-c1b7f",
+    "storage_bucket": "sunad-task-c1b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462278412292:android:0df12fc3b277cff6730d51",
+        "android_client_info": {
+          "package_name": "com.example.sunadtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462278412292-87h507866vfv5av4sup6ptbppn5haro3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7PfoPecTTAlACuAFDAoMhF89a2-OkHXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462278412292-87h507866vfv5av4sup6ptbppn5haro3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
